@@ -1,0 +1,29 @@
+---
+title: 
+date: 2006-02-08T11:03:12+02:00
+draft: true
+tags: [""]
+---
+
+I Congreso de Ciberperiodismo y Web 2.0: jornada 3 y conclusiones;"La tercera y última jornada ha sido tan interesante o más que la primera. Por un lado porque al no haber comunicaciones ha habido más sitio para las ponencias, pero también porque sólo una de ellas ha sido en portugués, lo cual se agradece (además, al no venir de sorpresa, siempre se lleva mejor). Los temas también me han resultado, personalmente, los más interesantes de los tres días. <!--more-->
+
+Una cuestión que no quiero dejar de mencionar es la relativa al <strong>uso de los <em>apellidos</em> 2.0, 3.0 etc.</strong> (incluso 4.0 se ha llegado a oír hoy; no sé cómo cotiza eso en el mercado de los gatitos muertos); la tendencia es no sólo a continuar usándolos, sino a argumentar este uso frente a denominaciones dotadas de más significado como <em>web social</em> (para la 2.0) o <em>web semántica</em> (para la 3.0). En concreto <a href=""http://www.lluiscodina.com/"">Lluís Codina</a> explicó las diferencias entre unas y otras en <a href=""http://www.lluiscodina.com/Web20_WebSemantica2009_Nov2009.pdf"">su ponencia</a>, la última del congreso (también podéis ver <a href=""http://www.slideshare.net/lcodina/ciberperiodismo2009v1-2495490"">la presentación</a>): 2.0 frente a 3.0, semántica frente a 3.0... En fin, sin entrar en más detalles, baste decir que <strong>estoy más lejos de lo que pensaba de mi objetivo de </strong><span style=""text-decoration: line-through;"">dominar el mundo</span> <strong>erradicar del vocabulario estos términos marketinianos</strong> de ""2.0"", que además de dar a entender una visión de la evolución de la web que no termino de compartir, <strong>se van quedando vacíos</strong> con el exceso de uso (sin contar la muerte de los gatitos).
+
+Lluís Codina también afirmó que hay quien cree que dejará de haber prensa impresa cuando se mueran los que ahora la compran, es decir, los mayores de 30 más o menos. En esta línea, también comentó su experiencia personal según la cual quien dice que no compra prensa impresa porque «se informa a través de la web» generalmente no se informa en absoluto. En otro orden de cosas, también comentó que, en igualdad de condiciones, aconseja sin dudarlo utilizar aplicaciones en línea sobre las de escritorio.
+
+Otras píldoras de este último día de congreso sobre ciberperiodismo:
+<ul>
+	<li><a href=""http://www.novosmedios.org/index.php/membros/xose-lopez-garcia-2/"">Xosé López</a> puso sobre la mesa el que en su opinión es el mayor debate que surge de todo esto de la web 2.0: el <strong>modelo de negocio</strong>. La <a href=""http://www.fayerwayer.com/2009/11/google-le-responde-a-murdoch-haga-lo-que-ud-quiera/"">guerra abierta entre Rupert Murdoch y Google</a> y las <a href=""http://www.233grados.com/blog/2009/07/nytimes-1.html"">claras intenciones del NYT de volver a los contenidos de pago</a> son prueba de ello. También afirmó que la interactividad y la participación, claves del periodismo ciudadano, introducen <strong>cambios no sólo en el producto, sino también en el proceso comunicativo</strong>.</li>
+	<li>Por otra parte, <a href=""http://www.uji.es/CA/departaments/com/estructura/personal/&amp;p_per_id=7544"">Andreu Casero Ripollés</a> centró su ponencia en el efecto que estas tendencias tienen en política. La conclusión principal es que aunque <strong>la <span> </span>web 2.0 </strong>esté ya muy ligada al entretenimiento y la vida cotidiana, aún está <strong>poco orientada al ejercicio de la actividad política</strong>. Aunque también afirma que la mera información <em>top-down</em>, en lugar del fomento de la participación, no funciona como estrategia política en la web, y que el político asume cada vez más una dinámica <em>cross-media</em>, la lógica del <em>always on</em>.</li>
+</ul>
+<h3>Unas rápidas conclusiones</h3>
+<ul>
+	<li><strong>Los temas han estado bien</strong>. Me han resultado interesantes y pertinentes casi todos, tanto las ponencias como las comunicaciones.</li>
+	<li>Definitivamente ha habido <strong>demasiado portugués</strong>. Nada excepto los nombres de algunos ponentes lo daba a entender en el programa de la web, y un 30% o más de contenidos presentados en portugués me ha resultado difícil de asimilar y frustrante.</li>
+	<li>Mencioné el tema de <strong>ofrecer aunque sea un café durante los <em>coffee breaks</em></strong>, y aunque pudo sonar a detalle sin importancia (derivado de mi relación con el Komando Kanapé y la afición por los pintxos gratis), lo cierto es que hubiese fomentado mucho más el contacto entre asistentes y con los ponentes. No es que fuera imposible, pero desde luego sí mucho más rebuscado. Una pena.</li>
+	<li>Otro aspecto notablemente infravalorado y por tanto infrautilizado: web 2.0. Se ha hablado mucho, pero ni <a href=""http://ciberpebi.wordpress.com"">el sitio</a> ni <a href=""http://twitter.com/ciberpebi"">el perfil de Twitter</a> se han actualizado durante el congreso (tampoco después; al menos hasta hoy). Ni siquiera se ha seguido, ni mucho menos ubicado en un lugar visible del congreso, el <a href=""http://search.twitter.com/search?q=ciberpebi"">stream generado en Twitter</a>. <strong>Un congreso bastante <em>1.0</em></strong> en este sentido, vamos.</li>
+	<li>Para terminar, personalmente me ha resultado interesante asistir a este congreso para poder <strong>poner cara a gente a la que he leído, manejado y citado en mi trabajo</strong> como Javier Díaz Noci, Ramón Salaverría o Lluís Codina. Y por supuesto para hacer nuevos descubrimientos.</li>
+</ul>
+Sensación positiva en general a pesar de las conclusiones negativas; al fin y al cabo ha sido la primera edición. Esperando ya a la segunda edición del <a href=""http://ciberpebi.wordpress.com"">Congreso sobre Ciberperiodismo y Web 2.0</a>, seguro que para entonces el panorama estará aún más interesante si cabe."
+
+15/11/2009 21:16

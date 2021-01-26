@@ -1,6 +1,5 @@
 ---
-title: Posts
-cms_exclude: true
+title: "Blog"
 
 # View.
 #   1 = List
@@ -8,8 +7,8 @@ cms_exclude: true
 #   3 = Card
 view: 2
 
-# Optional header image (relative to `static/media/` folder).
+# Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Notebook photo by [Tirachard Kumtanom](https://www.pexels.com/@tirachard-kumtanom-112571?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) A"
+  image: "blog.jpg"
 ---

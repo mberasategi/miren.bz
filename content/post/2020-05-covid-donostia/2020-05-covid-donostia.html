@@ -1,0 +1,48 @@
+---
+title: "Prueba RMarkdown: COVID-19 Donostia"
+slug: "/"
+date: 2019-01-18T18:44:23+02:00
+draft: true
+---
+
+
+
+<p>RMarkdown probatzen. COVID–19 Donostia</p>
+<pre class="r"><code>library(ggplot2)
+library(ggthemes)
+library(zoo)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;zoo&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:base&#39;:
+## 
+##     as.Date, as.Date.numeric</code></pre>
+<pre class="r"><code>library(grid)
+library(reshape2)
+library(directlabels)</code></pre>
+<pre class="r"><code>positiboak&lt;-read.csv(file=&quot;positibo-aktiboak.csv&quot;,header=TRUE)</code></pre>
+<pre class="r"><code>positiboak$data &lt;- as.Date(positiboak$data, format=&quot;%Y/%m/%d&quot;) # dataren zutabea data bezala inerpretatu
+
+# Batezbesteko mugikorrak kalkulatu
+pos.bat&lt;-positiboak
+pos.bat$Altza.Roteta&lt;-rollmeanr(positiboak$Altza.Roteta,3,fill=NA)
+pos.bat$Amara.Berri&lt;-rollmeanr(positiboak$Amara.Berri,3,fill=NA)
+pos.bat$Amara.Erdialdea&lt;-rollmeanr(positiboak$Amara.Erdialdea,3,fill=NA)
+pos.bat$Bidebieta&lt;-rollmeanr(positiboak$Bidebieta,3,fill=NA)
+pos.bat$Egia&lt;-rollmeanr(positiboak$Egia,3,fill=NA)
+pos.bat$Gros&lt;-rollmeanr(positiboak$Gros,3,fill=NA)
+pos.bat$Intxaurrondo&lt;-rollmeanr(positiboak$Intxaurrondo,3,fill=NA)
+pos.bat$Loiola&lt;-rollmeanr(positiboak$Loiola,3,fill=NA)
+pos.bat$Ondarreta&lt;-rollmeanr(positiboak$Ondarreta,3,fill=NA)
+pos.bat$Parte.Zaharra&lt;-rollmeanr(positiboak$Parte.Zaharra,3,fill=NA)</code></pre>
+<pre class="r"><code>grafikoa &lt;-
+  ggplot(data = melt(pos.bat, id=c(&quot;data&quot;)), aes( x = data, y = value, group = variable)) + 
+  theme_fivethirtyeight() +   # itxura orokorra ezarri
+  geom_line(size = 1.2, color = &quot;#cccccc&quot;) +   # lerroen kolorea eta lodiera
+  theme(plot.margin = unit(c(1,4,1,1), &quot;lines&quot;)) +   # auzoen izenei tokia egin
+  geom_dl(aes(label = variable), method = &quot;last.points&quot;) +    # auzoen izenak lerroaren bukaeran
+  scale_x_date(date_labels = &quot;%b %d&quot;, date_breaks = &quot;1 week&quot;, expand = c(0.2, 0)) +    # datak erakutsi
+  labs(title = &quot;Positibo aktiboak, 3 eguneko batezbesteko mugikorra&quot;, caption = &quot;Datuak: Osakidetza&quot;)   # izenburua eta oina gehitu
+
+grafikoa</code></pre>
+<pre><code>## Warning: Removed 20 rows containing missing values (geom_path).</code></pre>
+<p><img src="/post/2020-05-covid-donostia/2020-05-covid-donostia_files/figure-html/covid-donostia-1.png" width="672" /></p>

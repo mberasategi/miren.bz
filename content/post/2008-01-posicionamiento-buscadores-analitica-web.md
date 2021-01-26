@@ -1,0 +1,22 @@
+---
+title: Posicionamiento en buscadores y analítica web
+slug: "positionamiento-seo-analitica-web"
+date: 2008-01-31T23:00:12+02:00
+draft: false
+tags: ["analítica web","Google","SEO","formación"]
+categories: ["Deusto"]
+---
+
+Estas dos últimas semanas he estado siguiendo dos cursos organizados por <a href=""http://www.enpresadigitala.net/"">Miramon Enpresa Digitala</a>: [Analítica web. Cómo medir el comportamiento de nuestras visitas web](http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/analitica-como-medir-comportamiento-nuestras-visitas-completo/851.aspx) y [Marketing a través de internet. ¿cómo aparecer en los primeros puestos de buscadores?](http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/internet-como-herramienta-marketing-como-aparecer-primeros-puestos-buscadores/3087.aspx?showold=true). Han sido dos cursos muy centrados en Google, su algoritmo y sus herramientas gratuitas, lo cual me ha hecho consciente de que los tentáculos de Google llegan muchísimo más lejos de lo que pensaba, y me ha ayudado a entender algunas cosas sobre cómo funciona.
+
+También me han venido muy bien para pensar algunas cosas nuevas para este blog y [la web de Humanidades](http://www.humanidades.deusto.es/) y repensar algunas cosas que ya tengo por aquí. Con el tiempo, según las vaya implementando, ya os iré contando. <!-- De momento, baste decir que he modificado <del datetime=""2008-01-31T21:15:12+00:00"">todo</del> casi todo el contenido y los metadatos de este blog del inglés al castellano; me he dado cuenta de que podía estar mareando a más de uno/a. Y también he instalado los plugins [All in One SEO Pack](http://wp.uberdose.com/2007/03/24/all-in-one-seo-pack/), [Google Analytics for Wordpress](http://www.joostdevalk.nl/wordpress/google-analytics) y [Google (XML) Sitemaps Generator for Wordpress](http://www.arnebrachhold.de/projects/wordpress-plugins/google-xml-sitemaps-generator). Todo el trabajo de posicionamiento, optimización y seguimiento es mucho más fácil con un CMS bien pensado como [Wordpress](http://wordpress.com/). -->
+
+Sin pretender hacer un post sobre posicionamiento o analítica, sólo voy a listar algunas herramientas que he conocido o encontrado a través de estos dos cursos, que espero que os sean tan útiles como me están resultando a mí. Si alguna requiere más explicaciones de las que de hoy, no dudéis en pedirlas: prometo hacer lo que pueda.
+
+
+- [Search Engine Decoder](http://www.search-this.com/search-engine-decoder/). Porque parece ser que la mayoría de los buscadores que conocemos utilizan sólo dos o tres motores de búsqueda. Este sitio nos muestra gráficamente cuáles son las relaciones entre distintos buscadores. Gracias a él he sabido, por ejemplo, que [Alltheweb](http://alltheweb.com/), que yo siempre había tenido por un metabuscador, en realidad se alimenta sólo del motor de búsqueda de [Yahoo!](http://www.yahoo.com/). 
+- [Google Analytics](http://www.google.com/analytics/). Analítica web con esteroides, y gratis. El único problema es saber interpretar los datos que muestra. Estuvimos doce horas en ello y justo rascamos la punta del iceberg...
+- [Google Webmaster Tools](http://www.google.com/webmasters/tools/). Una serie de herramientas oficiales que muestran cómo Google ve nuestro sitio: la última vez que el bot nos visitó, qué errores o impedimentos encontró durante el rastreo, y la posibilidad de añadir orientaciones sobre cómo rastrearnos mejor. Imprescindible si nos interesa el posicionamiento en Google.
+- [Search Engine Ranking Factors](http://www.seomoz.org/article/search-ranking-factors). «Este documento representa el saber colectivo de 37 líderes en el mundo de la optimización orgánica en buscadores. Juntos, han votado los varios factores que se estiman como componentes del algoritmo de Google (el método por el cual el motor de búsqueda ordena los resultados)». Muy interesante para hacerse una idea fundad de qué le importa a Google y qué no.
+
+Han sido muchas más cosas, pero éstas han sido las que me han impactado más. Seguramente surgirán otras según vaya poniendo en práctica lo que he aprendido en estas dos semanas. En fin, lo dicho, espero que os aporten algo a quienes os dedicáis a diseñar/desarrollar sitios web y os interese el SEO.

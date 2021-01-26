@@ -1,0 +1,24 @@
+---
+title: Herramientas colaborativas en el entorno universitario
+slug: "herramientas-colaborativas-universidad"
+date: 2007-12-17T23:16:12+02:00
+draft: false
+tags: ["eventos","colaboración","redes sociales","universidad"]
+---
+
+Hoy hemos asistido a la [Jornada: Herramientas Colaborativas](http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/herramientas-colaborativas/601.aspx?showold=true), organizado por [Enpresa Digitala](http://www.enpresadigitala.net/). Los ponentes han sido [Eneko Astigarraga](http://eibar.org/blogak/prospektiba) de [CodeSyntax](http://www.codesyntax.com/) ("Herramientas groupware y de participación interna"), [Gorka Julio](http://www.teketen.com/) de [Elurnet](http://www.elurnet.net/) ("Herramientas de análisis y seguimiento de la información basada en colaboración, sindicación, participación, nuevos formatos y microformatos"), [Sergio Monge](http://www.sergiomonge.com/) ("Blogs cómo herramienta corporativa y de marketing") y [José A. del Moral](http://blogs.alianzo.com/redessociales/) de [Alianzo](http://www.alianzo.com/) ("Redes sociales corporativas y la influencia de las redes sociales abiertas en el entorno empresarial").
+
+Las ponencias en sí han sido interesantes, pero me hubiese gustado menos marketing y más sobre herramientas colaborativas. De cualquier forma, Eneko Astigarraga ha hecho unas reflexiones muy interesantes acerca de la importancia de que  el _impulso_ para la colaboración no sea impuesto, del acceso a estas herramientas también desde fuera de la organización (desde casa, por ejemplo) y de hacer un seguimiento del uso que se hace de estas herramientas; Gorka Julio ha mencionado algunos servicios y aplicaciones que me han interesado (como [Yahoo Pipes](http://pipes.yahoo.com/pipes/), [BuzzMonitor](http://buzzm.worldbank.org/) o [LinkedIn](http://www.linkedin.com/)); Sergio Monge ha recalcado que, aunque la mayor parte de estas herramientas sean de software libre y por tanto gratuitas, la colaboración no es gratis (la formación, el asesoramiento, el diseño y el tiempo dedicado por el personal suponen un coste); y José A. del Moral, además de insistir en que la herramienta en sí no es tan importante como la cultura de colaboración que la sostiene, ha señalado como tendencia emergente la aprteura de las intranets a proveedores, clientes y colaboradores.
+
+Lo más interesante, sin embargo, ha venido en el turno de preguntas. Alguien ha preguntado por la situación de todo esto en el ámbito universitario, y han surgido reflexiones muy sugerentes. Me ha alegrado enormemente escuchar a Serio Monge decir que el reconocimiento académico de las aportaciones de los docentes (él hablaba de wikis, pero yo lo extendería también a blogs o cualquier otro tipo de participación o generación de contenidos en la web) es un elemento de gran importancia y, añado yo, muy subestimado. Considera también, en consonancia con Gorka Julio, que la universidad debería ser, por antonomasia, la institución que genere repositorios abiertos de conocimiento en forma de wiki.
+<!--
+Estas declaraciones refuerzan mi convencimiento de que con el proyecto de wiki-intranet para la Facultad que me traigo entre manos (y que ya estamos comenzando a implantar, con el apoyo de la dirección de la Facultad y en colaboración con el Servicio Informático &mdash; ahora mismo haciendo posible el acceso desde el exterior, punto en el que me he empeñado desde el principio y que también se ha mencionado en alguna de las ponencias de hoy) estamos, poco a poco, colocándonos en el buen camino. Luego nos queda empezar a andarlo.
+-->
+
+(<!--También e-->Estoy realizando un proyecto de fin de master para la [UOC](http://www.uoc.edu/) que consiste en el planteamiento de una _infraestructura_ consistente en planeta de blogs + bookmarking social + wiki + seguimiento por RSS en la que las asignaturas de literatura, de las que mi tutor es profesor, parecen estar interesadas).
+
+<!--
+Por cierto, con este post estreno mi compromiso de utilizar [microformatos](http://es.wikipedia.org/wiki/Microformatos) allá donde pueda (o sepa). Tarde, pero el evento de esta tarde está _microformateado_.
+-->
+
+**Actualización (2007/12/18):** [Sergio Monge](http://www.sergiomonge.com/) desarrolla su postura acerca de la colaboración en el entorno universitario (a la que me he referido) en su post ["¿Qué debería hacer la universidad pública con las herramientas colaborativas?"](http://www.sergiomonge.com/2007/12/18/deberia-hacer-universidad-publica.htm "Sergio Monge: '¿Qué debería hacer la universidad pública con las herramientas colaborativas?'"), de muy recomendable lectura.
