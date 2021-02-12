@@ -39,7 +39,7 @@ email: "miren.berasategi@deusto.es"
   
 ---
 
-<a href="http://lll.eus" target="_blank">LLLeus</a>. Trikota. #runwalkrun. <a href="https://hezkuntza.librezale.eus" target="_blank">#HezkuntzanLibrezale</a>.  <a href="http://twitter.com/deustokomunika" target="_blank">@deustoKomunika</a>. Ikerketan: #numeracy &amp; #mathanxiety in #highered #datajournalism <a href="/academia"><i class="fas fa-graduation-cap"></i> Deustuko Unibertsitatean</a>. Ordena aldakorrean. <!-- De vez en cuando consigo organizarme para escribir cosas como: --></p>
+<a href="http://lll.eus" target="_blank">LLLeus</a>. Trikota. #runwalkrun. <a href="https://hezkuntza.librezale.eus" target="_blank">#HezkuntzanLibrezale</a>.  <a href="https://deustokom.news" target="_blank">#DeustoKom</a>. Ikerketan: #numeracy &amp; #mathanxiety in #highered #datajournalism <a href="/academia"><i class="fas fa-graduation-cap"></i> Deustuko Unibertsitatean</a>. Ordena aldakorrean. <!-- De vez en cuando consigo organizarme para escribir cosas como: --></p>
 
 <div id="blog-posts"></div>
 
