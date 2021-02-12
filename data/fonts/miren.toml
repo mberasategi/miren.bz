@@ -6,6 +6,6 @@ name = "Miren"
 
 # Font families
 heading_font = "Playfair Display"
-body_font = "Open Sans"
-nav_font = "Karla"
+body_font = "Inter"
+nav_font = "Inter"
 mono_font = "Fira Code"
