@@ -6,12 +6,12 @@
 
 [eu]
   languageCode = "es-eu"
-  languageName = "Euskara"
+  languageName = "EU"
   # contentDir = "content/eu"
 
 [es]
   languageCode = "es-es"
-  languageName = "Castellano"
+  languageName = "ES"
   contentDir = "content/es"
 
 # Uncomment the lines below to configure your website in a second language.
