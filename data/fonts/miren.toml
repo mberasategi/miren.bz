@@ -4,6 +4,96 @@ name = "Miren"
 # Optional Google font URL
 # google_fonts = "Karla|Fira+Code|Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700|Playfair+Display:400,400i,700,700i"
 
+/* Set up local fonts */
+
+@font-face{ 
+    font-family: "Open Sans"; 
+    src: url(/fonts/OpenSans-Light.ttf);
+    font-weight: normal;
+    font-style: normal;
+} 
+@font-face{ 
+    font-family: "Open Sans"; 
+    src: url(/fonts/OpenSans-LightItalic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face{ 
+    font-family: "Open Sans";  
+    src: url(/fonts/OpenSans-Semibold.ttf);
+    font-weight: bold;
+    font-style: normal;
+} 
+@font-face{ 
+    font-family: "Open Sans"; 
+    src: url(/fonts/OpenSans-SemiboldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+} 
+
+@font-face{ 
+    font-family: "Playfair Display"; 
+    src: url(/fonts/PlayfairDisplay-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+} 
+@font-face{ 
+    font-family: "Playfair Display"; 
+    src: url(/fonts/PlayfairDisplay-Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face{ 
+    font-family: "Playfair Display";  
+    src: url(/fonts/PlayfairDisplay-SemiBold.ttf);
+    font-weight: bold;
+    font-style: normal;
+} 
+@font-face{ 
+    font-family: "Playfair Display"; 
+    src: url(/fonts/PlayfairDisplay-SemiBoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+} 
+
+@font-face{ 
+    font-family: "Fira Code"; 
+    src: url(/fonts/FiraCode-Light.ttf);
+    font-weight: normal;
+    font-style: normal;
+} 
+@font-face{ 
+    font-family: "Fira Code";  
+    src: url(/fonts/FiraCode-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+} 
+
+@font-face{ 
+    font-family: "Karla";  
+    src: url(/fonts/Karla-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+} 
+@font-face{ 
+    font-family: "Karla";  
+    src: url(/fonts/Karla-Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+} 
+@font-face{ 
+    font-family: "Karla";  
+    src: url(/fonts/Karla-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+} 
+@font-face{ 
+    font-family: "Karla";  
+    src: url(/fonts/Karla-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+} 
+
 # Font families
 heading_font = "Playfair Display"
 body_font = "Open Sans"

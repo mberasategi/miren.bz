@@ -1,94 +1,3 @@
-/* Set up local fonts */
-
-@font-face{ 
-    font-family: "Open Sans"; 
-    src: url(/fonts/OpenSans-Light.ttf);
-    font-weight: normal;
-    font-style: normal;
-} 
-@font-face{ 
-    font-family: "Open Sans"; 
-    src: url(/fonts/OpenSans-LightItalic.ttf);
-    font-weight: normal;
-    font-style: italic;
-}
-@font-face{ 
-    font-family: "Open Sans";  
-    src: url(/fonts/OpenSans-Semibold.ttf);
-    font-weight: bold;
-    font-style: normal;
-} 
-@font-face{ 
-    font-family: "Open Sans"; 
-    src: url(/fonts/OpenSans-SemiboldItalic.ttf);
-    font-weight: bold;
-    font-style: italic;
-} 
-
-@font-face{ 
-    font-family: "Playfair Display"; 
-    src: url(/fonts/PlayfairDisplay-Regular.ttf);
-    font-weight: normal;
-    font-style: normal;
-} 
-@font-face{ 
-    font-family: "Playfair Display"; 
-    src: url(/fonts/PlayfairDisplay-Italic.ttf);
-    font-weight: normal;
-    font-style: italic;
-}
-@font-face{ 
-    font-family: "Playfair Display";  
-    src: url(/fonts/PlayfairDisplay-SemiBold.ttf);
-    font-weight: bold;
-    font-style: normal;
-} 
-@font-face{ 
-    font-family: "Playfair Display"; 
-    src: url(/fonts/PlayfairDisplay-SemiBoldItalic.ttf);
-    font-weight: bold;
-    font-style: italic;
-} 
-
-@font-face{ 
-    font-family: "Fira Code"; 
-    src: url(/fonts/FiraCode-Light.ttf);
-    font-weight: normal;
-    font-style: normal;
-} 
-@font-face{ 
-    font-family: "Fira Code";  
-    src: url(/fonts/FiraCode-Bold.ttf);
-    font-weight: bold;
-    font-style: normal;
-} 
-
-@font-face{ 
-    font-family: "Karla";  
-    src: url(/fonts/Karla-Regular.ttf);
-    font-weight: normal;
-    font-style: normal;
-} 
-@font-face{ 
-    font-family: "Karla";  
-    src: url(/fonts/Karla-Italic.ttf);
-    font-weight: normal;
-    font-style: italic;
-} 
-@font-face{ 
-    font-family: "Karla";  
-    src: url(/fonts/Karla-Bold.ttf);
-    font-weight: bold;
-    font-style: normal;
-} 
-@font-face{ 
-    font-family: "Karla";  
-    src: url(/fonts/Karla-BoldItalic.ttf);
-    font-weight: bold;
-    font-style: italic;
-} 
-
-
 nav#navbar-main { text-transform:uppercase; background-color:#fff; }
 
 .nav-link { text-align:center; padding-bottom:0 !important; }
@@ -113,7 +22,7 @@ nav#navbar-main { text-transform:uppercase; background-color:#fff; }
 .portrait { width:100px; height:100px; }
 
 .fa-icon { display:inline-block; vertical-align:middle; }
-.fa-element { background-image: url(/img/element.svg); background-size: 25px; background-repeat: no-repeat; background-position: 0 2px; width: 25px; height: 34px; }
+.fa-element { background-image: url(/media/element.svg); background-size: 25px; background-repeat: no-repeat; background-position: 0 2px; width: 25px; height: 34px; }
 .media-body .fa-element { background-size:12px; width:12px; background-position: 0 6px; }
 .keyboard { background: #eee; border: solid 2px #aaa; border-radius: 3px; border-style: outset; padding: .1em .3em; margin-right:.3em; color:#333; }
 .article-style aside, .alert-note { color: #5e81ac; background-color: #DFEAF4; border-color: #5e81ac; }
