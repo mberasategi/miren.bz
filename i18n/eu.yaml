@@ -1,0 +1,130 @@
+- id: toggle_navigation
+  translation: Txandakatu nabigazioa
+- id: table_of_contents
+  translation: Edukiak
+- id: on_this_page
+  translation: Orrialde honetan
+- id: back_to_top
+  translation: Gora bueltatu
+- id: related
+  translation: Zerikusia duten beste argitalpen batzuk
+- id: minute_read
+  translation: minututako irakurketa
+- id: previous
+  translation: Aurrekoa
+- id: next
+  translation: Hurrengoa
+- id: figure
+  translation: '%d irudia:'
+- id: btn_preprint
+  translation: Preprint
+- id: btn_pdf
+  translation: PDF
+- id: btn_cite
+  translation: Zita
+- id: btn_slides
+  translation: Diapositibak
+- id: btn_video
+  translation: Bideoa
+- id: btn_code
+  translation: Kodea
+- id: btn_dataset
+  translation: Datu-sorta
+- id: btn_project
+  translation: Proiektua
+- id: btn_poster
+  translation: Poster
+- id: btn_source
+  translation: Iturburu dokumentua
+- id: btn_copy
+  translation: Kopiatu
+- id: btn_download
+  translation: Deskargatu
+- id: interests
+  translation: Interesak
+- id: education
+  translation: Ikasketak
+- id: user_profile_latest
+  translation: Azkenak
+- id: see_certificate
+  translation: See certificate
+- id: present
+  translation: Present
+- id: more_pages
+  translation: Guztiak ikusi
+- id: more_posts
+  translation: Bidalketa gehiago
+- id: more_talks
+  translation: Hitzaldi gehiago
+- id: more_publications
+  translation: Argitalpen gehiago
+- id: contact_name
+  translation: Izena
+- id: contact_email
+  translation: Email 
+- id: contact_message
+  translation: Mezua
+- id: contact_send
+  translation: Bidali
+- id: book_appointment
+  translation: Book an appointment
+- id: abstract
+  translation: Laburpena
+- id: publication
+  translation: Non argitaratua
+- id: publication_type
+  translation: Mota
+- id: date
+  translation: Data
+- id: last_updated
+  translation: Last updated on
+- id: event
+  translation: Ekitaldia
+- id: location
+  translation: Kokalekua
+- id: pub_uncat
+  translation: Kategoriarik gabea
+- id: pub_conf
+  translation: Conference paper
+- id: pub_journal
+  translation: Journal article
+- id: pub_preprint
+  translation: Preprint
+- id: pub_report
+  translation: Report
+- id: pub_book
+  translation: Liburua
+- id: pub_book_section
+  translation: Book section
+- id: pub_thesis
+  translation: Tesia
+- id: pub_patent
+  translation: Patent
+- id: open_project_site
+  translation: Joan proiektuaren webgunera
+- id: posts
+  translation: Bidalketak
+- id: publications
+  translation: Argitalpenak
+- id: talks
+  translation: Hitzaldiak
+- id: projects
+  translation: Proiektuak
+- id: search
+  translation: Bilatu
+- id: search_placeholder
+  translation: Bilatu...
+- id: search_results
+  translation: emaitza aurkitu dira
+- id: search_no_results
+  translation: Ez da emaitzarik aurkitu
+- id: page_not_found
+  translation: Orrialdea ez da aurkitu
+- id: 404_recommendations
+  translation: Hauetako baten bila ari zinen agian?
+- id: cookie_message
+  translation: This website uses cookies to ensure you get the best experience on our website.
+- id: cookie_dismiss
+  translation: Ulertuta!
+- id: cookie_learn
+  translation: Gehiago jakin nahi dut

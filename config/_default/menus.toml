@@ -3,35 +3,56 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "Home"
-  url = "#about"
-  weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+  [[main]]
+    name = "Deusto"
+    url = "deusto"
+    weight = 10
+#  [[main]]
+#    name = "Argitalpenak"
+#    url = "academia#publications"
+#    weight = 20
+#  [[main]]
+#      name = "Lantegiak eta irakaskuntza"
+#      url = "talk"
+#      weight = 25
+#  [[main]]
+#      name = "Proiektuak"
+#      url = "academia#projects"
+#      weight = 30    
+  [[main]]
+      name = "Bloga"
+      url = "post"
+      weight = 50    
+#  [[main]]
+#      name = "Harremanetarako"
+#      url = "academia#contact"
+#      weight = 60
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 50
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+# [[main]]
+#   name = "Home"
+#   url = "#about"
+#   weight = 10
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 30
+# [[main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 40
+# [[main]]
+#   name = "Publications"
+#   url = "#featured"
+#   weight = 50
+# [[main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

@@ -1,0 +1,46 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Deusto"
+  url = "deusto"
+  weight = 10
+
+# [[main]]
+#   name = "Academia"  # Title of the link.
+#   url = "academia/"  # Widget Page folder name.
+#   weight = 20  # Position of the link in the navigation bar.
+
+# [[main]]
+#   name = "Publicaciones"
+#   url = "academia#publications"
+#   weight = 20
+
+# [[main]]
+#   name = "Talleres y docencia"
+#   url = "talk"
+#   weight = 25
+  
+# [[main]]
+#   name = "Proyectos"
+#   url = "academia#projects"
+#   weight = 30
+
+[[main]]
+  name = "Blog"
+  url = "post"
+  weight = 50
+
+# [[main]]
+#   name = "Contacto"
+#   url = "academia#contact"
+#   weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
