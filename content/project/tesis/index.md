@@ -1,7 +1,7 @@
 ---
-title: Tesis doctoral
+title: Doktore tesia
 subtitle: "La incorporación del periodismo de datos a los grados en Comunicación: una propuesta desde la consideración de la ansiedad matemática y su efecto en el rendimiento"
-summary: "La incorporación del periodismo de datos a los grados en Comunicación"
+summary: "'La incorporación del periodismo de datos a los grados en Comunicación: Una propuesta desde la consideración de la ansiedad matemática y su efecto en el rendimiento'"
 date: "2019-09-20T00:00:00Z"
 
 image:
