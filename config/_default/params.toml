@@ -100,7 +100,7 @@ address = {street = "Mundaiz 50", city = "Donostia", region = "Gipuzkoa", postco
 coordinates = {latitude = "43.309046105683365", longitude = "-1.9758286719577571"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -112,12 +112,12 @@ appointment_url = "https://calendar.com/mberasategi"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/mberasategi"},
-  {icon = "mastodon", icon_pack = "fab", name = "DM Me", link = "https://mastodon.eus/@miren"},
+  # {icon = "twitter", icon_pack = "fab", name = "Twitter bidez", link = "https://twitter.com/mberasategi"},
+  {icon = "mastodon", icon_pack = "fab", name = "Mastodon bidez", link = "https://mastodon.eus/@miren"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@MirenBz"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram bidez", link = "https://t.me/mirenbz"},
   ]
 
 ############################
