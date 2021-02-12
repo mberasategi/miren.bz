@@ -18,25 +18,25 @@ organizations:
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Periodismo y comunicación de datos, alfabetización numérica, competencia digital.
+bio: Datuen kazetaritza eta komunikazioa, alfabetizazio numerikoa, konpetentzia digitala.
 
 interests:
-- Periodismo y comunicación de datos
-- Comunicación digital y en línea
-- Competencia digital
-- Texto plano
-- Software libre y de código abierto
+- Datuen kazetaritza eta komunikazioa
+- Komunikazio digitala eta lineakoa
+- Konpetentzia digitala
+- Testu hutsa (_plain text_)
+- Software librea eta kode irekikoa
 
 education:
   courses:
-  - course: Doctorado en Ocio, Cultura y Comunicación para el Desarrollo Humano
-    institution: Universidad de Deusto
+  - course: Giza Garapenerako Aisia, Kultura eta Komunikazioan Doktoregoa
+    institution: Deustuko Unibertsitatea
     year: 2019
-  - course: Máster oficial en Sociedad de la Información y el Conocimiento
+  - course: Informazioa eta Ezagutzaren Gizartean Master Ofiziala
     institution: Universitat Oberta de Catalunya
     year: 2008
-  - course: "Licenciatura en Humanidades: Comunicación"
-    institution: Universidad de Deusto
+  - course: "Giza Zientziak: Komunikazioan Lizentziatura"
+    institution: Deustuko Unibertsitatea
     year: 2004
 
 # Social/Academic Networking
@@ -81,6 +81,6 @@ email: "miren.berasategi@deusto.es"
 # - Visitors
 ---
 
-Soy docente e investigadora en el [Departamento de Comunicación](http://infocom.deusto.es) de la [Universidad de Deusto](http://deusto.es). Imparto materias relacionadas con la comunicación digital y la visualización de datos. En 2020 he defendido mi tesis doctoral titulada _La incorporación del periodismo de datos a los grados en Comunicación: Una propuesta desde la consideración de la ansiedad matemática y su efecto en el rendimiento_.
+Irakasle eta ikertzailea naiz [Deustuko Unibertsitate](http://deusto.es)ko [Komunikazio Sailean](http://infocom.deusto.es). Komunikazio digitala eta datuen bistaratzearekin zerikusia duten ikasgaiak ematen ditut. 2020ean doktore tesiaren defentsa egin dut, honako izenburupean (gazteleraz): _Datuen kazetaritzaren lanketa Komunikazioko graduetan: proposamen bat antsietate matematikoaren eta honek errendimenduan duen efektuaren ikuspegitik_.
 
 <!-- @laligadelaleche. Yoga. Punto. #runwalkrun. @deustoKomunika. Investigando: #numeracy & #mathanxiety in #highered #datajournalism en Deusto. No necesariamente en este orden. -->

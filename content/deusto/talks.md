@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Talleres, docencia"
-subtitle = "y participaciones públicas"
+title = "Lantegiak, irakaskuntza"
+subtitle = "eta bestelako parte-hartze publikoak"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -69,5 +69,5 @@ subtitle = "y participaciones públicas"
 +++
 
 {{% alert note %}}
-Accede a [todos los talleres y sesiones]({{< ref "/talk/_index.md" >}}).
+Kontsultatu [lantegi eta irakaskuntza saio guztiak]({{< ref "/talk/_index.md" >}}).
 {{% /alert %}}

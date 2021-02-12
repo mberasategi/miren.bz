@@ -39,12 +39,12 @@ email: "miren.berasategi@deusto.es"
   
 ---
 
-<a href="http://lll.eus" target="_blank">LLLeus</a>. Punto. #runwalkrun. <a href="https://hezkuntza.librezale.eus" target="_blank">#HezkuntzanLibrezale</a>. <a href="http://twitter.com/deustokomunika" target="_blank">@deustoKomunika</a>. Investigando: #numeracy &amp; #mathanxiety in #highered #datajournalism <a href="/academia"><i class="fas fa-graduation-cap"></i> en Deusto</a>. No necesariamente en ese orden. <!-- De vez en cuando consigo organizarme para escribir cosas como: --></p>
+<a href="http://lll.eus" target="_blank">LLLeus</a>. Trikota. #runwalkrun. <a href="https://hezkuntza.librezale.eus" target="_blank">#HezkuntzanLibrezale</a>.  <a href="http://twitter.com/deustokomunika" target="_blank">@deustoKomunika</a>. Ikerketan: #numeracy &amp; #mathanxiety in #highered #datajournalism <a href="/academia"><i class="fas fa-graduation-cap"></i> Deustuko Unibertsitatean</a>. Ordena aldakorrean. <!-- De vez en cuando consigo organizarme para escribir cosas como: --></p>
 
 <div id="blog-posts"></div>
 
 <div style="width:90%;padding-left:7em;margin:0 auto;font-family: Roboto, sans-serif;font-size: .9em;margin-top:2.4em;font-weight:300;">
-...y más, en el <a href="/post" style="text-decoration:underline;color:#111 !important;">blog</a>.
+...eta gehiago, <a href="/post" style="text-decoration:underline;color:#111 !important;">blog</a>ean.
 </div>
 
 

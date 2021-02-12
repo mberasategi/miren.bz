@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Publicaciones recientes"
-subtitle = "Últimas publicaciones académicas"
+title = "Argitalpen berriak"
+subtitle = "Azken argitalpen akademikoak"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,5 +67,5 @@ subtitle = "Últimas publicaciones académicas"
 +++
 
 {{% alert note %}}
-Accede a [todas las publicaciones]({{< ref "/publication/_index.md" >}}).
+Kontsultatu [argitalpen guztiak]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}

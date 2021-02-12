@@ -11,5 +11,5 @@ view: 4
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Typewriter photo by [Suzy Hazelwood](https://www.pexels.com/@suzyhazelwood?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
-  image: "argitalpenak.es.jpg"
+  image: "argitalpenak.jpg"
 ---
