@@ -184,3 +184,7 @@ body.home {
 }
 
 .markup-quote { background-image: none; background-color: #FFE9C6; padding:0 .3em; }
+
+/* Temporarily force-hide i18n dropdown */
+
+.nav-item.dropdown.i18n-dropdown { display:none; }
