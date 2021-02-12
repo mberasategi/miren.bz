@@ -1,0 +1,59 @@
+<div class="pub-list-item" style="margin-bottom: 1rem">
+
+  {{ range .Params.publication_types }}
+    {{ if eq . "6" }}
+      <i class="fas fa-book-open pub-icon" aria-hidden="true"></i>
+    {{ else if eq . "1" }}
+      <i class="fas fa-users pub-icon" aria-hidden="true"></i>
+    {{ else if eq . "2" }}
+      <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+    {{ else }}
+      <i class="far fa-file pub-icon" aria-hidden="true"></i>
+    {{ end }}
+  {{ end }}
+
+
+  {{/* APA Style */}}
+  {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" . }}
+  </span>
+  ({{- .Date.Format "2006" -}}).
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+  {{ if .Params.collaborator }}
+  {{- .Params.collaborator | markdownify -}},
+  {{ end }}
+  {{ if .Params.publication_short }}
+  {{- .Params.publication_short | markdownify -}}
+  {{ else if .Params.publication }}
+  {{- .Params.publication | markdownify -}}
+  {{ end }}
+  {{ if .Params.volume }}
+  ,&nbsp;{{- .Params.volume | markdownify -}}
+  {{ end }}
+  {{ if .Params.number }}
+  ({{- .Params.number | markdownify -}})
+  {{ end }}
+  {{ if .Params.pages }}
+  ,&nbsp;p.&nbsp;{{- .Params.pages | markdownify -}}
+  {{ end }}
+  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+
+  {{/* MLA Style */}}
+  {{ else }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" . }}
+  </span>.
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+  {{ if .Params.publication_short }}
+  {{- .Params.publication_short | markdownify -}},
+  {{ else if .Params.publication }}
+  {{- .Params.publication | markdownify -}},
+  {{ end }}
+  {{- .Date.Format "2006" -}}.
+  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+
+  {{ end }}
+</div>

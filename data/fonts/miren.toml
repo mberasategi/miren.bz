@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Miren"
+
+# Optional Google font URL
+# google_fonts = "Karla|Fira+Code|Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700|Playfair+Display:400,400i,700,700i"
+
+# Font families
+heading_font = "Playfair Display"
+body_font = "Open Sans"
+nav_font = "Karla"
+mono_font = "Fira Code"

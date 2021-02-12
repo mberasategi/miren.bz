@@ -1,0 +1,43 @@
+{{/* This partial is included in `themes/academic/layouts/partials/site_head.html`. */}}
+
+
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.miren.bz"]);
+  _paq.push(["setDomains", ["*.miren.bz","*.git.miren.bz","*.lab.miren.bz"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.miren.be/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+
+<!-- Display blog posts from feed -->
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-rss/4.3.0/jquery.rss.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.25.3/moment.min.js"></script>
+      <script>
+      jQuery(function($) {
+        $("#blog-posts").rss(
+      "https://miren.bz/post/index.xml",
+      {
+          //dateFormat: "D [de] MMMM [de] YYYY",
+          dateFormat: 'YYYY/MM/DD',
+          dateLocale: 'es',
+          entryTemplate: '<li><span class="date">{date}</span> <span class="title"><a href="{url}">{title}</a></span> <span class="summary">{shortBodyPlain}</span></li>'
+      }
+    )
+      });
+    </script>
+  
+<!--- end feed display -->
