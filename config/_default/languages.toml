@@ -4,15 +4,15 @@
 
 # Configure languages of the site.
 
-[es]
-  languageCode = "es-es"
-  languageName = "Castellano"
-  contentDir = "content/es"
-
 [eu]
   languageCode = "es-eu"
   languageName = "Euskara"
   # contentDir = "content/eu"
+
+[es]
+  languageCode = "es-es"
+  languageName = "Castellano"
+  contentDir = "content/es"
 
 # Uncomment the lines below to configure your website in a second language.
 #[en]

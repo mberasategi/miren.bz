@@ -43,7 +43,7 @@ email: "miren.berasategi@deusto.es"
 
 <div id="blog-posts"></div>
 
-<div style="width:90%;padding-left:7em;margin:0 auto;font-family: Roboto, sans-serif;font-size: .9em;margin-top:2.4em;font-weight:300;">
+<div style="width:90%;padding-left:7em;margin:0 auto;font-family: Inter, 'Open Sans', sans-serif;font-size: .9em;margin-top:2.4em;font-weight:300;">
 ...y más, en el <a href="/post" style="text-decoration:underline;color:#111 !important;">blog</a>.
 </div>
 
