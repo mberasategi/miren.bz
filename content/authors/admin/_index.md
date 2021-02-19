@@ -49,7 +49,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: mastodon
   icon_pack: fab
-  link: https://mastodon.eus/@miren
+  link: https://mas.to/@miren
 - icon: github
   icon_pack: fab
   link: https://github.com/mberasategi
