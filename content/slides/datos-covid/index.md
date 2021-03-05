@@ -19,4 +19,4 @@ Miren Berasategi
 
 ---
 
-![El Diario Vasco, 17 enero 2020](../img/DV_2020-01-17_p6.png)
+![El Diario Vasco, 17 enero 2020](img/DV_2020-01-17_p6.png)
