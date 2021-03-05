@@ -57,21 +57,29 @@ Miren Berasategi
 
 <div class="small" markdown="1">
 
-<div class="fragment">«reacción afectiva negativa» (Ashcraft y Moore, 2009, p. 197) </div>
-<div class="fragment">«**tensión** y **ansiedad**» (Richardson y Suinn, 1972, p. 551)</div>
-<div class="fragment">«**miedo** al fracaso o a la equivocación» (Perry, citado en Baus y Welch, 2008)</div>
-<div class="fragment">«**miedo** y **pavor**» (Lewis, citado en Hembree, 1990) </div>
-<div class="fragment">«**pavor** patológico y humildad flagrante \[_helplessness_\]» (Guillen, 1983, p. 2)</div>
-<div class="fragment">«**pánico**, **indefensión**, **parálisis** y **desorganización** mental» (Hunt, citado en Deieso y Fraser, 2018)</div>
-<div class="fragment">«esta emoción es desagradable, está orientada al futuro, y es **completamente desproporcionada** con respecto a la amenaza» (Hembree, 1990, p. 33)</div>
+<div class="fragment" markdown="1">«reacción afectiva negativa» (Ashcraft y Moore, 2009, p. 197) </div>
+<div class="fragment" markdown="1">«**tensión** y **ansiedad**» (Richardson y Suinn, 1972, p. 551)</div>
+<div class="fragment" markdown="1">«**miedo** al fracaso o a la equivocación» (Perry, citado en Baus y Welch, 2008)</div>
+<div class="fragment" markdown="1">«**miedo** y **pavor**» (Lewis, citado en Hembree, 1990) </div>
+<div class="fragment" markdown="1">«**pavor** patológico y humildad flagrante \[_helplessness_\]» (Guillen, 1983, p. 2)</div>
+<div class="fragment" markdown="1">«**pánico**, **indefensión**, **parálisis** y **desorganización** mental» (Hunt, citado en Deieso y Fraser, 2018)</div>
+<div class="fragment" markdown="1">«esta emoción es desagradable, está orientada al futuro, y es **completamente desproporcionada** con respecto a la amenaza» (Hembree, 1990, p. 33)</div>
 
 </div>
+
+---
+
+![](img/aplanar-la-curva.gif)
+
+<figure><figcaption>Agencia SINC (2020), obtenido de [WikiMedia](https://commons.wikimedia.org/wiki/File:Covid-19-curves-graphic-social-v3-es.gif)</figcaption></figure>
 
 ---
 
 ## Referencias
 
 <div class="small" markdown="1" style="text-align:left;">
+
+Agencia SINC (2020). <a href="https://www.agenciasinc.es/Noticias/Las-dos-graficas-que-explican-como-podemos-frenar-la-epidemia-de-COVID-19">Las dos gráficas que explican cómo podemos frenar la epidemia de COVID-19</a>
 
 Ashcraft, M. H., & Moore, A. M. (2009). Mathematics Anxiety and the Affective Drop in Performance. _Journal of Psychoeducational Assessment_, 27(3), 197–205. `https://doi.org/10.1177/0734282908330580`
 
