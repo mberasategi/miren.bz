@@ -19,11 +19,15 @@ Miren Berasategi
 
 ---
 
+## {data-transition="slide-in fade-out"}
+
 ![](img/DV_2020-01-17.png)
 
 <figure><figcaption>El Diario Vasco, 17 enero 2020</figcaption></figure>
 
 ---
+
+## {data-transition="fade"}
 
 ![](img/DV_2020-03-14.png)
 
@@ -31,23 +35,31 @@ Miren Berasategi
 
 ---
 
+## {data-transition="fade"}
+
 ![](img/DV_2020-03-16.png)
 
 <figure><figcaption>El Diario Vasco, 16 marzo 2020</figcaption></figure>
 
 ---
 
-![](img/DV_2020-03-20.png){height="550"}
+## {data-transition="fade"}
+
+![](img/DV_2020-03-20.png)
 
 <figure><figcaption>El Diario Vasco, 20 marzo 2020</figcaption></figure>
 
 ---
 
-![](img/DV_2020-03-27.png){height="550"}
+## {data-transition="fade"}
+
+![](img/DV_2020-03-27.png)
 
 <figure><figcaption>El Diario Vasco, 27 marzo 2020</figcaption></figure>
 
 ---
+
+## {data-transition="fade-in slide-out"}
 
 ![](img/DV_2020-04-30.png)
 
@@ -57,7 +69,7 @@ Miren Berasategi
 
 <div class="small" markdown="1">
 
-<p class="fragment">«reacción afectiva negativa» (Ashcraft y Moore, 2009, p. 197) </p>
+<p class="fragment">«reacción afectiva negativa»<br /><span class="smallest">Ashcraft y Moore, 2009, p. 197</span> </p>
 <p class="fragment">«<strong>tensión</strong> y <strong>ansiedad</strong>» (Richardson y Suinn, 1972, p. 551)</p>
 <p class="fragment">«<strong>miedo</strong> al fracaso o a la equivocación» (Perry, citado en Baus y Welch, 2008)</p>
 <p class="fragment">«<strong>miedo</strong> y <strong>pavor</strong>» (Lewis, citado en Hembree, 1990) </p>
@@ -81,7 +93,7 @@ Miren Berasategi
 
 ---
 
-![](img/DV_2020-05-06.png){height="550"}
+![](img/DV_2020-05-06.png)
 
 <figure><figcaption>El Diario Vasco, 6 mayo 2020</figcaption></figure>
 
