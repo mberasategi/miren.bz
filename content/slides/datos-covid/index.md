@@ -69,9 +69,21 @@ Miren Berasategi
 
 ---
 
-![](img/aplanar-la-curva.gif)
+![](img/aplanar-la-curva_800px.gif)
 
 <figure><figcaption markdown="1">Agencia SINC (2020), obtenido de [WikiMedia](https://commons.wikimedia.org/wiki/File:Covid-19-curves-graphic-social-v3-es.gif)</figcaption></figure>
+
+---
+
+![](img/DV_2020-05-03.png)
+
+<figure><figcaption>El Diario Vasco, 3 mayo 2020</figcaption></figure>
+
+---
+
+![](img/DV_2020-05-06.png)
+
+<figure><figcaption>El Diario Vasco, 6 mayo 2020</figcaption></figure>
 
 ---
 
