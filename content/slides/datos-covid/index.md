@@ -13,7 +13,10 @@ slides:
 ---
 
 
-# Datos COVID y ansiedad matemática: un círculo vicioso
+# Datos COVID y <br /> ansiedad matemática: <br />un círculo vicioso
 
 Miren Berasategi
 
+---
+
+![El Diario Vasco, 17 enero 2020](../img/DV_2020-01-17_p6.png)
