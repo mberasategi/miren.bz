@@ -1,5 +1,5 @@
 ---
-title: "Datos COVID y ansiedad matemática: un círculo vicioso"
+title: "Datos COVID-19 y ansiedad matemática: un círculo vicioso"
 authors: ["admin"]
 tags: ["visualización", "datos", "COVID-19", "ansiedad matemática", "presentación"]
 categories: ["conferencia"]
@@ -13,7 +13,7 @@ slides:
 ---
 
 
-# Datos COVID y <br /> ansiedad matemática: <br />un círculo vicioso
+# Datos COVID-19 y <br /> ansiedad matemática: <br />un círculo vicioso
 
 Miren Berasategi
 
@@ -37,13 +37,13 @@ Miren Berasategi
 
 ---
 
-![](img/DV_2020-03-20.png)
+![](img/DV_2020-03-20.png){height="550"}
 
 <figure><figcaption>El Diario Vasco, 20 marzo 2020</figcaption></figure>
 
 ---
 
-![](img/DV_2020-03-27.png)
+![](img/DV_2020-03-27.png){height="550"}
 
 <figure><figcaption>El Diario Vasco, 27 marzo 2020</figcaption></figure>
 
@@ -57,13 +57,13 @@ Miren Berasategi
 
 <div class="small" markdown="1">
 
-<div class="fragment">«reacción afectiva negativa» (Ashcraft y Moore, 2009, p. 197) </div>
-<div class="fragment">«<strong>tensión</strong> y <strong>ansiedad</strong>» (Richardson y Suinn, 1972, p. 551)</div>
-<div class="fragment">«<strong>miedo</strong> al fracaso o a la equivocación» (Perry, citado en Baus y Welch, 2008)</div>
-<div class="fragment">«<strong>miedo</strong> y <strong>pavor</strong>» (Lewis, citado en Hembree, 1990) </div>
-<div class="fragment">«<strong>pavor</strong> patológico y humildad flagrante [<em>helplessness</em>]» (Guillen, 1983, p. 2)</div>
-<div class="fragment">«<strong>pánico</strong>, <strong>indefensión</strong>, <strong>parálisis</strong> y <strong>desorganización</strong> mental» (Hunt, citado en Deieso y Fraser, 2018)</div>
-<div class="fragment">«esta emoción es desagradable, está orientada al futuro, y es <strong>completamente desproporcionada</strong> con respecto a la amenaza» (Hembree, 1990, p. 33)</div>
+<p class="fragment">«reacción afectiva negativa» (Ashcraft y Moore, 2009, p. 197) </p>
+<p class="fragment">«<strong>tensión</strong> y <strong>ansiedad</strong>» (Richardson y Suinn, 1972, p. 551)</p>
+<p class="fragment">«<strong>miedo</strong> al fracaso o a la equivocación» (Perry, citado en Baus y Welch, 2008)</p>
+<p class="fragment">«<strong>miedo</strong> y <strong>pavor</strong>» (Lewis, citado en Hembree, 1990) </p>
+<p class="fragment">«<strong>pavor</strong> patológico y humildad flagrante [<em>helplessness</em>]» (Guillen, 1983, p. 2)</p>
+<p class="fragment">«<strong>pánico</strong>, <strong>indefensión</strong>, <strong>parálisis</strong> y <strong>desorganización</strong> mental» (Hunt, citado en Deieso y Fraser, 2018)</p>
+<p class="fragment">«esta emoción es desagradable, está orientada al futuro, y es <strong>completamente desproporcionada</strong> con respecto a la amenaza» (Hembree, 1990, p. 33)</p>
 
 </div>
 
@@ -81,7 +81,7 @@ Miren Berasategi
 
 ---
 
-![](img/DV_2020-05-06.png)
+![](img/DV_2020-05-06.png){height="550"}
 
 <figure><figcaption>El Diario Vasco, 6 mayo 2020</figcaption></figure>
 
