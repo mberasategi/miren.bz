@@ -57,13 +57,13 @@ Miren Berasategi
 
 <div class="small" markdown="1">
 
-<div class="fragment" markdown="1">«reacción afectiva negativa» (Ashcraft y Moore, 2009, p. 197) </div>
-<div class="fragment" markdown="1">«**tensión** y **ansiedad**» (Richardson y Suinn, 1972, p. 551)</div>
-<div class="fragment" markdown="1">«**miedo** al fracaso o a la equivocación» (Perry, citado en Baus y Welch, 2008)</div>
-<div class="fragment" markdown="1">«**miedo** y **pavor**» (Lewis, citado en Hembree, 1990) </div>
-<div class="fragment" markdown="1">«**pavor** patológico y humildad flagrante \[_helplessness_\]» (Guillen, 1983, p. 2)</div>
-<div class="fragment" markdown="1">«**pánico**, **indefensión**, **parálisis** y **desorganización** mental» (Hunt, citado en Deieso y Fraser, 2018)</div>
-<div class="fragment" markdown="1">«esta emoción es desagradable, está orientada al futuro, y es **completamente desproporcionada** con respecto a la amenaza» (Hembree, 1990, p. 33)</div>
+<div class="fragment">«reacción afectiva negativa» (Ashcraft y Moore, 2009, p. 197) </div>
+<div class="fragment">«**tensión</strong> y <strong>ansiedad**» (Richardson y Suinn, 1972, p. 551)</div>
+<div class="fragment">«**miedo</strong> al fracaso o a la equivocación» (Perry, citado en Baus y Welch, 2008)</div>
+<div class="fragment">«**miedo</strong> y <strong>pavor**» (Lewis, citado en Hembree, 1990) </div>
+<div class="fragment">«**pavor</strong> patológico y humildad flagrante [<em>helplessness</em>]» (Guillen, 1983, p. 2)</div>
+<div class="fragment">«**pánico**, <strong>indefensión**, <strong>parálisis</strong> y <strong>desorganización</strong> mental» (Hunt, citado en Deieso y Fraser, 2018)</div>
+<div class="fragment">«esta emoción es desagradable, está orientada al futuro, y es <strong>completamente desproporcionada</strong> con respecto a la amenaza» (Hembree, 1990, p. 33)</div>
 
 </div>
 
@@ -71,7 +71,7 @@ Miren Berasategi
 
 ![](img/aplanar-la-curva.gif)
 
-<figure><figcaption>Agencia SINC (2020), obtenido de [WikiMedia](https://commons.wikimedia.org/wiki/File:Covid-19-curves-graphic-social-v3-es.gif)</figcaption></figure>
+<figure><figcaption markdown="1">Agencia SINC (2020), obtenido de [WikiMedia](https://commons.wikimedia.org/wiki/File:Covid-19-curves-graphic-social-v3-es.gif)</figcaption></figure>
 
 ---
 
