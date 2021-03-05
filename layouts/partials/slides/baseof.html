@@ -71,7 +71,7 @@
       { src: '{{ "js/vendor/reveal.js/plugin/notes/notes.js" | relURL }}', async: true }
     ]};
 
-    let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: 'slide', mouseWheel: true, margin: 0.2 };
+    let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: 'fade', mouseWheel: true, margin: 0.2 };
     let revealOptions = Object.assign({}, revealDefaults, revealPlugins);
     Reveal.initialize(revealOptions);
   </script>
