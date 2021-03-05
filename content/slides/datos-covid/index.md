@@ -87,6 +87,36 @@ Miren Berasategi
 
 ---
 
+![](img/DV_2020-07-03.png)
+
+<figure><figcaption>El Diario Vasco, 3 julio 2020</figcaption></figure>
+
+---
+
+![](img/DV_2020-07-26.png)
+
+<figure><figcaption>El Diario Vasco, 26 julio 2020</figcaption></figure>
+
+---
+
+![](img/DV_2020-08-30.png)
+
+<figure><figcaption>El Diario Vasco, 30 agosto 2020</figcaption></figure>
+
+---
+
+![](img/DV_2020-09-27.png)
+
+<figure><figcaption>El Diario Vasco, 27 septiembre 2020</figcaption></figure>
+
+---
+
+![](img/DV_2021-03-05.png)
+
+<figure><figcaption>El Diario Vasco, 5 marzo 2021</figcaption></figure>
+
+---
+
 ## Referencias
 
 <div class="small" markdown="1" style="text-align:left;">
