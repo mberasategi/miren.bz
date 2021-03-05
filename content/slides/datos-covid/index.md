@@ -54,19 +54,24 @@ Miren Berasategi
 <figure><figcaption>El Diario Vasco, 30 abril 2020</figcaption></figure>
 
 ---
-## {.small}
 
->- «reacción afectiva negativa» (Ashcraft y Moore, 2009, p. 197) 
->- «**tensión** y **ansiedad**» (Richardson y Suinn, 1972, p. 551)
->- «**miedo** al fracaso o a la equivocación» (Perry, citado en Baus y Welch, 2008)
->- «**miedo** y **pavor**» (Lewis, citado en Hembree, 1990) 
->- «**pavor** patológico y humildad flagrante \(_helplessness_\)» (Guillen, 1983, p. 2)
->- «**pánico**, **indefensión**, **parálisis** y **desorganización** mental» (Hunt, citado en Deieso y Fraser, 2018)
->- «esta emoción es desagradable, está orientada al futuro, y es **completamente desproporcionada** con respecto a la amenaza» (Hembree, 1990, p. 33)
+<div class="small" markdown="1">
+
+<div class="fragment">«reacción afectiva negativa» (Ashcraft y Moore, 2009, p. 197) </div>
+<div class="fragment">«**tensión** y **ansiedad**» (Richardson y Suinn, 1972, p. 551)</div>
+<div class="fragment">«**miedo** al fracaso o a la equivocación» (Perry, citado en Baus y Welch, 2008)</div>
+<div class="fragment">«**miedo** y **pavor**» (Lewis, citado en Hembree, 1990) </div>
+<div class="fragment">«**pavor** patológico y humildad flagrante \[_helplessness_\]» (Guillen, 1983, p. 2)</div>
+<div class="fragment">«**pánico**, **indefensión**, **parálisis** y **desorganización** mental» (Hunt, citado en Deieso y Fraser, 2018)</div>
+<div class="fragment">«esta emoción es desagradable, está orientada al futuro, y es **completamente desproporcionada** con respecto a la amenaza» (Hembree, 1990, p. 33)</div>
+
+</div>
 
 ---
 
-## Referencias {.small}
+## Referencias
+
+<div class="small" markdown="1" style="text-align:left;">
 
 Ashcraft, M. H., & Moore, A. M. (2009). Mathematics Anxiety and the Affective Drop in Performance. _Journal of Psychoeducational Assessment_, 27(3), 197–205. `https://doi.org/10.1177/0734282908330580`
 
@@ -81,3 +86,4 @@ Hembree, R. (1990). The Nature, Effects, and Relief of Mathematics Anxiety. _Jou
 
 Richardson, F. C., & Suinn, R. M. (1972). _The Mathematics Anxiety Rating Scale: Psychometric data. Journal of Counseling Psychology_, 19(6), 551–554.
 
+</div>
