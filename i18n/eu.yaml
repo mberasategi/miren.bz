@@ -8,6 +8,8 @@
   translation: Gora bueltatu
 - id: related
   translation: Zerikusia duten beste argitalpen batzuk
+- id: comments
+  translation: Iruzkinak
 - id: minute_read
   translation: minututako irakurketa
 - id: previous

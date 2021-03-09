@@ -8,6 +8,8 @@
   translation: Volver al inicio
 - id: related
   translation: Relacionado
+- id: comments
+  translation: Comentarios
 - id: minute_read
   translation: min de lectura
 - id: previous
